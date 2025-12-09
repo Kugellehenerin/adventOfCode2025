@@ -1,1 +1,1 @@
-# adventOfCode2025
+This is my first time trying out **Advent of Code**. I decided to dive into the challenge and solve the puzzles using **C++**. I'm excited to learn, experiment, and document my progress along the way!
